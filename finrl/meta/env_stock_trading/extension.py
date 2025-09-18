@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from env_stocktrading import StockTradingEnv
+from finrl.meta.env_stock_trading.env_stocktrading import StockTradingEnv
 import pandas as pd
 from copy import deepcopy
 from typing import Literal, Sequence
