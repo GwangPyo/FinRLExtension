@@ -1,7 +1,7 @@
 alpaca-py
 alpaca_trade_api>=2.1.0
 ccxt>=1.66.32
-elegantrl
+# elegantrl
 
 gputil
 gymnasium
@@ -22,8 +22,8 @@ pyfolio-reloaded
 
 # testing requirements
 pytest
-ray[default]
-ray[tune]
+# ray[default]
+# ray[tune]
 recommonmark
 
 # Model Building Requirements
